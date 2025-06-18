@@ -1,5 +1,5 @@
 <!-- Cabeçalho com Cores Roxas e Azuis -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,5,8,10,12,15,18,20,24,30&height=200&section=header&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%" alt="Cabeçalho Roxo e Azul"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,5,8,10,12,15,18,20,24,30&text=Jhony+Miler&height=200&section=header&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%" alt="Cabeçalho Roxo e Azul"/>
 
 <!-- Typing Animation -->
 ![Header Typing](https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=600&size=40&duration=3000&pause=1000&color=6366f1&center=true&vCenter=true&width=1000&height=100&lines=👋+Olá,+meu+nome+é+Jhony+Miler;🤖+DESENVOLVEDOR+FULL+STACK;🚀+ESPECIALISTA+EM+IA+%26+AUTOMAÇÃO;💡+CRIANDO+O+FUTURO+COM+TECNOLOGIA;🤖+CONSTRUINDO+AGENTES+INTELIGENTES;⚡+TRANSFORMANDO+IDEIAS+EM+REALIDADE)
