@@ -1,5 +1,3 @@
-# 💫About Me :
-
 <!-- Cabeçalho com Cores Roxas e Azuis -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,5,8,10,12,15,18,20,24,30&height=200&section=header&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%" alt="Cabeçalho Roxo e Azul"/>
 
