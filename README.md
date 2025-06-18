@@ -1,3 +1,4 @@
+# 💫About Me :
 
 <!-- Cabeçalho com Cores Roxas e Azuis -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,5,8,10,12,15,18,20,24,30&height=200&section=header&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%" alt="Cabeçalho Roxo e Azul"/>
@@ -96,32 +97,31 @@ console.log("🎯 Pronto para impactar o mundo!");
 ## <div align="center">⚡ MATRIZ DE PERFORMANCE ⚡</div>
 
 <div align="center" style="width:100%">
-
-<!-- Holographic Stats Display -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Tech Divider">
-
-<!-- Advanced GitHub Stats -->
-<table width="100%" style="border: none; width:100% !important">
+  <!-- Holographic Stats Display -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Tech Divider">
+  <!-- Advanced GitHub Stats -->
+<table style="width: 100%; border: none; table-layout: fixed;">
   <tr>
-    <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=jhonymiler&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=6366f1&text_color=ffffff&icon_color=8b5cf6&border_color=6366f1&border_radius=15" alt="Estatísticas Avançadas"/>
+    <td style="border: none; text-align: center;">
+      <img src="https://github-readme-stats.vercel.app/api?username=jhonymiler&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas Avançadas" style="border: none; width: 100%;" />
     </td>
-    <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonymiler&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=6366f1&text_color=ffffff&border_color=6366f1&border_radius=15&langs_count=8" alt="Linguagens Dominadas"/>
+    <td style="border: none; text-align: center;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonymiler&hide_progress=true&layout=compact&theme=tokyonight" alt="Linguagens Dominadas" style="border: none; width: 100%;" />
+    </td>
+    <td style="border: none; text-align: center;">
+      <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
+        <img src="https://streak-stats.demolab.com?user=jhonymiler&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak" style="border: none; width: 100%;" />
+      </a>
     </td>
   </tr>
 </table>
-
-<!-- Streak & Activity -->
-<img src="https://streak-stats.demolab.com/?user=jhonymiler&theme=dark&background=0d1117&border=6366f1&stroke=6366f1&ring=8b5cf6&fire=ec4899&currStreakNum=6366f1&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=15" alt="Sequência de Domínio"/>
-
-<!-- Achievements -->
-<img src="https://github-profile-trophy.vercel.app/?username=jhonymiler&theme=discord&no-frame=true&row=1&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Conquistas Tecnológicas"/>
-
-<!-- Activity Graph with Purple Theme -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jhonymiler&bg_color=0d1117&color=6366f1&line=8b5cf6&point=ffffff&area=true&hide_border=false&border_color=6366f1&radius=15" alt="Gráfico Neural de Atividade"/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Tech Divider">
+  <!-- Achievements -->
+  <img src="https://github-profile-trophy.vercel.app/?username=jhonymiler&theme=discord&no-frame=true&row=1&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Conquistas Tecnológicas"/>
+  
+  <!-- Activity Graph with Purple Theme -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhonymiler&bg_color=0d1117&color=6366f1&line=8b5cf6&point=ffffff&area=true&hide_border=false&border_color=6366f1&radius=15" alt="Gráfico Neural de Atividade"/>
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Tech Divider">
 
 </div>
 
@@ -289,3 +289,4 @@ console.log("🎯 Pronto para impactar o mundo!");
   <h3>💡 "O futuro pertence àqueles que acreditam na beleza de seus sonhos tecnológicos." 💡</h3>
   <h4>🚀 Desenvolvido com ❤️ e muito ☕ por Jonatas Miler Oliveira 🚀</h4>
 </div>
+
