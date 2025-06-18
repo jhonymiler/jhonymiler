@@ -58,39 +58,39 @@ const jhonyMiler = {
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-
-### GitHub Stats
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <div style="flex: 1; min-width: 45%;">
+    <h3>GitHub Stats</h3>
+    
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jhonymiler&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
-</td>
-<td width="50%">
-
-### GitHub Streak
+  </div>
+  
+  <div style="flex: 1; min-width: 45%;">
+    <h3>GitHub Streak</h3>
+    
 ![GitHub Streak](https://streak-stats.demolab.com/?user=jhonymiler&theme=radical&hide_border=true)
+  </div>
+</div>
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### Top Languages
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
+  <div style="flex: 1; min-width: 45%;">
+    <h3>Top Languages</h3>
+    
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jhonymiler&layout=compact&theme=radical&hide_border=true)
-
-</td>
-<td width="50%">
-
-### Activity Graph
+  </div>
+  
+  <div style="flex: 1; min-width: 45%;">
+    <h3>Activity Graph</h3>
+    
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jhonymiler&theme=redical&hide_border=true)
+  </div>
+</div>
 
-</td>
-</tr>
-</table>
-
-### GitHub Trophies
+<div style="margin-top: 30px;">
+  <h3>GitHub Trophies</h3>
+  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jhonymiler&theme=radical&no-frame=true&row=2&column=4)
+</div>
 
 </div>
 
@@ -148,44 +148,41 @@ const jhonyMiler = {
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <div style="flex: 1; min-width: 45%; max-width: 48%;">
+    
 [![Bitbucket MCP Cloud](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jhonymiler&repo=Bitbucket-MCP-Cloud&theme=radical)](https://github.com/jhonymiler/Bitbucket-MCP-Cloud)
-
-</td>
-<td width="50%">
-
+  </div>
+  
+  <div style="flex: 1; min-width: 45%; max-width: 48%;">
+    
 [![PII Tokenizer To AI](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jhonymiler&repo=PII-Tokenizer-To-AI&theme=radical)](https://github.com/jhonymiler/PII-Tokenizer-To-AI)
+  </div>
+</div>
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
+  <div style="flex: 1; min-width: 45%; max-width: 48%;">
+    
 [![SCORENEWS-IA](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jhonymiler&repo=SCORENEWS-IA&theme=radical)](https://github.com/jhonymiler/SCORENEWS-IA)
-
-</td>
-<td width="50%">
-
+  </div>
+  
+  <div style="flex: 1; min-width: 45%; max-width: 48%;">
+    
 [![Bitcoin Private Key Hunter](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jhonymiler&repo=Bitcoin-PrivateKey-Hunter&theme=radical)](https://github.com/jhonymiler/Bitcoin-PrivateKey-Hunter)
+  </div>
+</div>
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
+  <div style="flex: 1; min-width: 45%; max-width: 48%;">
+    
 [![IA dos Impostos](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jhonymiler&repo=ia-dos-impostos&theme=radical)](https://github.com/jhonymiler/ia-dos-impostos)
-
-</td>
-<td width="50%">
-
+  </div>
+  
+  <div style="flex: 1; min-width: 45%; max-width: 48%;">
+    
 [![JhonySauro](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jhonymiler&repo=JhonySauro&theme=radical)](https://github.com/jhonymiler/JhonySauro)
-
-</td>
-</tr>
-</table>
+  </div>
+</div>
 
 </div>
 
@@ -195,25 +192,25 @@ const jhonyMiler = {
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-
-### Wakatime Stats
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <div style="flex: 1; min-width: 45%;">
+    <h3>Wakatime Stats</h3>
+    
 ![Wakatime Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=jhonymiler&theme=radical)
-
-</td>
-<td width="50%">
-
-### Profile Summary
+  </div>
+  
+  <div style="flex: 1; min-width: 45%;">
+    <h3>Profile Summary</h3>
+    
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhonymiler&theme=radical)
+  </div>
+</div>
 
-</td>
-</tr>
-</table>
-
-### Snake Animation
+<div style="margin-top: 30px;">
+  <h3>Snake Animation</h3>
+  
 ![Snake Animation](https://raw.githubusercontent.com/jhonymiler/jhonymiler/output/github-contribution-grid-snake-dark.svg)
+</div>
 
 </div>
 
@@ -239,23 +236,23 @@ const jhonyMiler = {
 
 ### 📈 Estatísticas dos Projetos de IA
 
-| 🚀 **Projeto** | ⭐ **Stars** | 🍴 **Forks** | 🔧 **Tecnologia** | 📅 **Última Atualização** |
-|:---|:---:|:---:|:---:|:---:|
-| [PII-Tokenizer-To-AI](https://github.com/jhonymiler/PII-Tokenizer-To-AI) | 3 | 1 | PHP/LLM | Jun 2025 |
-| [SCORENEWS-IA](https://github.com/jhonymiler/SCORENEWS-IA) | 1 | 0 | Python/ML | Nov 2024 |
-| [ia-dos-impostos](https://github.com/jhonymiler/ia-dos-impostos) | 2 | 1 | Python/Dashboard | Fev 2025 |
-| [JhonySauro](https://github.com/jhonymiler/JhonySauro) | 1 | 0 | JavaScript/IA | 2022 |
-| [Bitcoin-PrivateKey-Hunter](https://github.com/jhonymiler/Bitcoin-PrivateKey-Hunter) | 4 | 1 | Python/Distribuído | Ago 2024 |
+| 🚀 **Projeto**                                                                        | ⭐ **Stars** | 🍴 **Forks** |  🔧 **Tecnologia**  | 📅 **Última Atualização** |
+| :----------------------------------------------------------------------------------- | :---------: | :---------: | :----------------: | :----------------------: |
+| [PII-Tokenizer-To-AI](https://github.com/jhonymiler/PII-Tokenizer-To-AI)             |      3      |      1      |      PHP/LLM       |         Jun 2025         |
+| [SCORENEWS-IA](https://github.com/jhonymiler/SCORENEWS-IA)                           |      1      |      0      |     Python/ML      |         Nov 2024         |
+| [ia-dos-impostos](https://github.com/jhonymiler/ia-dos-impostos)                     |      2      |      1      |  Python/Dashboard  |         Fev 2025         |
+| [JhonySauro](https://github.com/jhonymiler/JhonySauro)                               |      1      |      0      |   JavaScript/IA    |           2022           |
+| [Bitcoin-PrivateKey-Hunter](https://github.com/jhonymiler/Bitcoin-PrivateKey-Hunter) |      4      |      1      | Python/Distribuído |         Ago 2024         |
 
 ### 📊 Estatísticas dos Repositórios
 
-| 📁 **Categoria** | 📦 **Quantidade** | 🌟 **Total Stars** | 🔄 **Total Forks** |
-|:---|:---:|:---:|:---:|
-| **Inteligência Artificial** | 5 | 11 | 3 |
-| **Desenvolvimento Web** | 15 | 15 | 5 |
-| **Blockchain & Crypto** | 8 | 8 | 2 |
-| **DevOps & Tools** | 12 | 12 | 4 |
-| **Mobile & IoT** | 5 | 5 | 1 |
+| 📁 **Categoria**             | 📦 **Quantidade** | 🌟 **Total Stars** | 🔄 **Total Forks** |
+| :-------------------------- | :--------------: | :---------------: | :---------------: |
+| **Inteligência Artificial** |        5         |        11         |         3         |
+| **Desenvolvimento Web**     |        15        |        15         |         5         |
+| **Blockchain & Crypto**     |        8         |         8         |         2         |
+| **DevOps & Tools**          |        12        |        12         |         4         |
+| **Mobile & IoT**            |        5         |         5         |         1         |
 
 **Total:** 45 repositórios • 51 stars • 15 forks
 
