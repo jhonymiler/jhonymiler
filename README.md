@@ -1,20 +1,6 @@
-<!--
-🔧 INSTRUÇÕES DE TROUBLESHOOTING:
-
-Se alguma imagem não estiver carregando, tente estas soluções:
-
-1. Verifique se o username 'jhonymiler' está correto no GitHub
-2. Aguarde alguns minutos - os serviços podem estar temporariamente indisponíveis
-3. Se persistir, descomente as alternativas no final do arquivo
-4. Para estatísticas em tempo real, certifique-se de que o repositório é público
-
-URLs de backup (descomente se necessário):
-- https://github-readme-stats-sigma-five.vercel.app/
-- https://streak-stats.demolab.com/
-- https://github-readme-activity-graph.vercel.app/
--->
-
 # 👋 Olá! Eu sou Jhony Miler
+
+<div align="center">
 
 ![Header Typing](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=940&lines=🤖+Desenvolvedor+Full+Stack+%26+Entusiasta+de+IA;🚀+Especialista+em+Agentes+Inteligentes;💡+Criando+o+Futuro+com+Tecnologia)
 
@@ -27,10 +13,13 @@ URLs de backup (descomente se necessário):
 ![Repos Badge](https://badges.pufler.dev/repos/jhonymiler?style=for-the-badge&color=58A6FF&labelColor=1c1917)
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/jhonymiler?style=for-the-badge&color=58A6FF&labelColor=1c1917)
 
-<!-- Sobre mim com ícones e animações -->
+</div>
+
+---
+
 ## 🚀 Sobre Mim
 
-![Coding GIF](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
+<img align="right" alt="Coding GIF" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ```typescript
 const jhonyMiler = {
@@ -63,21 +52,53 @@ const jhonyMiler = {
 };
 ```
 
-## 📊 Estatísticas Avançadas do GitHub
+---
 
-### GitHub Stats & Streak
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### GitHub Stats
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jhonymiler&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+</td>
+<td width="50%">
+
+### GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=jhonymiler&theme=radical&hide_border=true)
 
-### Top Languages & Activity
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### Top Languages
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jhonymiler&layout=compact&theme=radical&hide_border=true)
+
+</td>
+<td width="50%">
+
+### Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jhonymiler&theme=redical&hide_border=true)
+
+</td>
+</tr>
+</table>
 
 ### GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jhonymiler&theme=radical&no-frame=true&row=2&column=4)
 
-<!-- Tecnologias organizadas por categoria -->
+</div>
+
+---
+
 ## 🛠️ Arsenal Tecnológico
+
+<div align="center">
 
 ### 🤖 Inteligência Artificial & Machine Learning
 
@@ -119,26 +140,88 @@ const jhonyMiler = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+</div>
+
+---
+
 ## 🎯 Projetos em Destaque
 
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
 [![Bitbucket MCP Cloud](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jhonymiler&repo=Bitbucket-MCP-Cloud&theme=radical)](https://github.com/jhonymiler/Bitbucket-MCP-Cloud)
+
+</td>
+<td width="50%">
+
 [![PII Tokenizer To AI](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jhonymiler&repo=PII-Tokenizer-To-AI&theme=radical)](https://github.com/jhonymiler/PII-Tokenizer-To-AI)
 
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 [![SCORENEWS-IA](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jhonymiler&repo=SCORENEWS-IA&theme=radical)](https://github.com/jhonymiler/SCORENEWS-IA)
+
+</td>
+<td width="50%">
+
 [![Bitcoin Private Key Hunter](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jhonymiler&repo=Bitcoin-PrivateKey-Hunter&theme=radical)](https://github.com/jhonymiler/Bitcoin-PrivateKey-Hunter)
 
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 [![IA dos Impostos](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jhonymiler&repo=ia-dos-impostos&theme=radical)](https://github.com/jhonymiler/ia-dos-impostos)
+
+</td>
+<td width="50%">
+
 [![JhonySauro](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jhonymiler&repo=JhonySauro&theme=radical)](https://github.com/jhonymiler/JhonySauro)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
 
 ## 📈 Métricas de Produtividade
 
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### Wakatime Stats
 ![Wakatime Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=jhonymiler&theme=radical)
 
+</td>
+<td width="50%">
+
+### Profile Summary
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhonymiler&theme=radical)
 
+</td>
+</tr>
+</table>
+
+### Snake Animation
 ![Snake Animation](https://raw.githubusercontent.com/jhonymiler/jhonymiler/output/github-contribution-grid-snake-dark.svg)
 
+</div>
+
+---
+
 ## 🌐 Vamos Nos Conectar
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jonatas-miler-83805053)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/jonatas.m.o)
@@ -146,7 +229,13 @@ const jhonyMiler = {
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jhonymiler.github.io)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5519999999999)
 
+</div>
+
+---
+
 ## 🤖 Impacto em IA & Desenvolvimento
+
+<div align="center">
 
 ### 📈 Estatísticas dos Projetos de IA
 
@@ -170,7 +259,11 @@ const jhonyMiler = {
 
 **Total:** 45 repositórios • 51 stars • 15 forks
 
+</div>
+
 ---
+
+<div align="center">
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A%20intelig%C3%AAncia%20artificial%20%C3%A9%20o%20novo%20el%C3%A9trico&author=Jhony%20Miler)
 
@@ -182,5 +275,4 @@ const jhonyMiler = {
 
 ![Visitor Count](https://profile-counter.glitch.me/jhonymiler/count.svg)
 
-
-
+</div>
